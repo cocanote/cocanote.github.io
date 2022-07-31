@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "개과천선 : 더 좋은 개발자로 거듭나다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "cocanote"
 description              : "An amazing website."
 url                      : "https://cocanote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "CocaNote"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**Developers** growing to the end of the universe."
+  location         : "Inchen"
   email            :
   links:
-    - label: "Email"
+    - label: "cococacapitan@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
